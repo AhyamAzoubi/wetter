@@ -1,0 +1,16 @@
+{"coord":{"lon":13.4105,"lat":52.5244},
+"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],
+"base":"stations",
+"main":{"temp":289.6,"feels_like":288.82,"temp_min":288.15,"temp_max":291.06,"pressure":1024,"humidity":58},
+
+"visibility":10000,
+"wind":{"speed":2.68,"deg":113,"gust":3.58},
+
+"clouds":{"all":20},
+"dt":1663854407,
+"sys":{"type":2,"id":2011538,"country":"DE","sunrise":1663822314,"sunset":1663866390},
+"timezone":7200,
+"id":2950159,
+"name":"Berlin",
+"cod":200
+}
